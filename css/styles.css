@@ -1,0 +1,196 @@
+body {
+  font-family: "Ubuntu";
+  letter-spacing: 1.5px;
+
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 3.75rem;
+  line-height: 1.5;
+  padding: 0 3% 10%;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+/* Navigation Bar */
+
+.navbar-logo {
+  height: 3rem;
+}
+
+.navbar {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #574E57;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+/* Title Section */
+
+#title {
+    background-color: #EDCE00;
+    padding: 0 15% 7%;
+}
+
+.title-box {
+  padding-top: 4%;
+  vertical-align: middle;
+}
+
+.title-img {
+  padding-top: 2rem;
+  width: 100%;
+}
+
+.download-btn {
+  margin-bottom: 1rem;
+  margin-left: 3%;
+  padding: 0.4rem 3rem;
+}
+
+.down-btn {
+  display: block;
+  margin: auto;
+  text-align: center;
+  color: #8E8564;
+  width: auto;
+}
+
+.down-btn:hover {
+  color: #4A4531;
+}
+
+/* Feature Section */
+
+#features {
+  padding: 7% 15%;
+}
+
+#features p {
+  color: #8f8f8f;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #EDCE00;
+  padding-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #EDB825;
+}
+
+/* Products Section */
+
+#products {
+  background-color: #EDCE00;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.product-img {
+  width: 10%;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+em {
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.visit-btn {
+  margin-top: 1rem;
+  padding: 0.4rem 3rem;
+}
+
+/* About Section */
+
+#about {
+  padding: 7% 15%;
+}
+
+#about p {
+  margin: 0;
+}
+
+.about-img {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.about-box {
+  display: inline-block;
+  background-color: #EDCE00;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+  width: auto;
+}
+
+.about-left-align {
+  padding: 2% 10% 0 3%;
+  text-align: left;
+}
+
+.about-right-align {
+  padding: 2% 3% 0 10%;
+  text-align: right;
+
+}
+
+/* Education Section */
+
+#education {
+  background-color: #EDCE00;
+  padding: 7% 15%;
+}
+
+#education h1 {
+  padding-bottom: 0;
+  color: #4A4531;
+}
+
+.course-btn {
+  margin-bottom: 1rem;
+  margin-left: 5%;
+  font-weight: bolder;
+  color: #4A4531;
+  border-color: #4A4531;
+}
+
+.pdf-modal {
+  
+  width: 100%;
+}
