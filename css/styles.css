@@ -61,6 +61,26 @@ p {
     padding: 0 15% 7%;
 }
 
+#carouselTitle {
+  position: relative;
+  height: 200px;
+}
+
+#carouselTitle .carousel-inner {
+  height: 250px;
+}
+
+#carouselTitle span {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+
+.title-carousel-span {
+  text-align: left;
+}
+
 .title-box {
   padding-top: 4%;
   vertical-align: middle;
