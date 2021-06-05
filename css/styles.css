@@ -26,6 +26,10 @@ h3 {
   line-height: 1.5;
 }
 
+p {
+  color: #4A4531;
+}
+
 /* Navigation Bar */
 
 .navbar-logo {
@@ -191,6 +195,23 @@ em {
 }
 
 .pdf-modal {
-  
   width: 100%;
+}
+
+/* Footer Section */
+
+#footer {
+  background-color: #EDCE00;
+  padding: 2% 15%;
+  text-align: center;
+  border-top: solid #8E8564 1px;
+}
+
+.footer-icon {
+  color: #8E8564;
+  padding: 2% 1%;
+}
+
+.footer-icon:hover {
+  color: #4A4531;
 }
