@@ -240,3 +240,17 @@ em {
 .footer-icon:hover {
   color: #4A4531;
 }
+
+/* Media Queries */
+
+@media (max-width: 991px) {
+  .navbar {
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 909px) {
+  #carouselTitle {
+    height: 50px;
+  }
+}
